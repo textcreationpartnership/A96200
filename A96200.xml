@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The VVelch-mans warning-piece. As it was delivered in a sermon in Shropshire at the assembly when the resolution was agreed upon. And now pnblished [sic] for the cood of all her countrymen in these parts. By Shon ap Morgan. In the anti-prelatian yeer. 1642. Wherein her gives Kot thanks, that her was no beshit.</title>
+            <author>Morgan, Shon ap.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96200</idno>
+            <idno type="STC">Wing W1339</idno>
+            <idno type="STC">Thomason E154_1</idno>
+            <idno type="STC">ESTC R2081</idno>
+            <idno type="EEBO-CITATION">99867093</idno>
+            <idno type="PROQUEST">99867093</idno>
+            <idno type="VID">156811</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96200)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156811)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E154[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The VVelch-mans warning-piece. As it was delivered in a sermon in Shropshire at the assembly when the resolution was agreed upon. And now pnblished [sic] for the cood of all her countrymen in these parts. By Shon ap Morgan. In the anti-prelatian yeer. 1642. Wherein her gives Kot thanks, that her was no beshit.</title>
+                  <author>Morgan, Shon ap.</author>
+               </titleStmt>
+               <extent>[10] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wood, and Henry Marsh,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>National characteristics, Welsh --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156811:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 76 -->
+            <pb facs="tcp:156811:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 76 -->
+            <p>THE VVELCH-MANS <hi>WARNING-PIECE.</hi>
+            </p>
+            <p>As it was delivered in a Sermon in <hi>Shropſhire</hi> at the Aſſembly when the Reſolution was agreed upon. AND Now publiſhed for the cood of all her Country<g ref="char:EOLhyphen"/>men in theſe parts.</p>
+            <p>By <hi>SHON</hi> ap <hi>MORGAN.</hi>
+            </p>
+            <p>In the Anti-Prelatian Yeer. 1642. Wherin her gives Kot thanks, that her was no Beſhit.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Robert Wood,</hi> and <hi>Henry Marſh.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:156811:2"/>
+            <!-- PDF PAGE 77 -->
+            <pb facs="tcp:156811:2"/>
+            <!-- PDF PAGE 77 -->
+            <head>THE WELCH-MANS WARNING-PIECE.</head>
+            <p>COot people, tis written in the pook of <hi>Kot,</hi> I cannot tell well where; put her was ſure twas tere, <hi>Viſhilata tora<g ref="char:EOLhyphen"/>ta,</hi> tat is much to to ſay in her mutter tongue, <hi>Waſh and pray,</hi> wella go too, ten her muſt liver you teſt out of te pook of <hi>Kot,</hi> her ſaid pefore her cannot tell where, put her was warrant her, her was tere. <hi>Autam</hi> Fater <hi>Atam</hi> was koot old man was war<g ref="char:EOLhyphen"/>rant her, muſt uſe told ſperation pecauſe a<g ref="char:EOLhyphen"/>cree peſt wid te Creek and Eprue, <hi>Atam</hi> fa<g ref="char:EOLhyphen"/>ter <hi>Atam</hi> was plaſhe in Paradiſe, <hi>Kots</hi> nown houſe, prave houſe, prave plaſhe; nay her warrant her twas a ſweet plaſhe, were was all manner of prave tings, all manner prave tree, Appol-tre, Pum-tre, Fig-tre, Pere-tre, eye all manner tree; yet <hi>Atam</hi> was fall, eie
+<pb facs="tcp:156811:3"/>
+               <!-- PDF PAGE 78 -->and how was <hi>Atam</hi> fall, <hi>Atam</hi> was fall upon <hi>Heva,</hi> and how was <hi>Atam</hi> fall upon <hi>Heva,</hi> for lack of coot take heed; Terefore take heed how you fall upon <hi>Heva;</hi> tat is, how you fall on your Vences, your prave Guls, your painted punts; for take heed to <hi>Vi<g ref="char:EOLhyphen"/>ſhilata torata,</hi> waſh and pray, was vvarrant her keep her teſht ſtill. <hi>Heva,</hi> moder <hi>Heva</hi> was plaſht tere too, <hi>Heva</hi> moder <hi>Heva</hi> was ſpy appol on a Tree, a pock on her for her lapour, <hi>Heva</hi> eat appol, <hi>Heva</hi> gave ap<g ref="char:EOLhyphen"/>pol to <hi>Atam,</hi> to Fader <hi>Atam,</hi> to deceive koot old man, a pock on her again for her lapour: Coot People take heed of <hi>Heva,</hi> for <hi>Heva</hi> tid teceive coot Fader <hi>Atam,</hi> and all woman do ſtill teceive man.</p>
+            <p>Terfore her ſay acain and acain, <hi>Viſhilata torata, Waſh and pray,</hi> her warrant her keepe her text ſtill.</p>
+            <p>
+               <hi>Lot</hi> old Fader <hi>Lot,</hi> was coot old man too, had two Wences, two pretty Wences to her Taughters, <hi>Lot</hi> made Wine, <hi>Lot</hi> tid trink Wine, and <hi>Lot</hi> vvas trunk; and hovv vvas <hi>Lot</hi> tunk, why with tinking of Wine: Coot People take heed of trinking of Wine, tho
+<pb facs="tcp:156811:3"/>
+               <!-- PDF PAGE 78 -->its ſweet; for trunkenneſſe is a creat ſinne, what tid <hi>Lot</hi> peloved when he was tunke, tid he ſleep, no, her tid lye with poth her novvn Taughters, Opominable ting; nay <hi>Lot</hi> tid get her two Taughters we ſhild, which was very nought; and why tid her ſo, for want of grace, <hi>viſhilata torata, Waſh and pray,</hi> her vvarrant her keepe her Text ſtill.</p>
+            <p>
+               <hi>Taffie, Taffie,</hi> her nown Country-man was porn in <hi>Monmouth-ſhire,</hi> neer te Creek of te well, vvas firſt man plaid Welch Harp vvas prave King, and <hi>Saul</hi> vvas a mighty King, but <hi>Taffie</hi> vvas vviſe King; yet <hi>Taffie</hi> vvas fell too, and where vvas <hi>Taffie</hi> fell <hi>Taffie</hi> was fell upon <hi>Perſepa:</hi> O hovv vvas <hi>Taffie</hi> fell upon <hi>Perſhepa,</hi> for lack of coot take heed; terfore take heed <hi>viſhilata tora<g ref="char:EOLhyphen"/>ta, waſh and pray,</hi> I warrant her keep her text ſtill.</p>
+            <p>
+               <hi>Shobe</hi> that holy and ſhuſt man, <hi>Shob</hi> had muſt Oxe, muſh Aſſe, muſh ſheep, muſh Cowe, muſh Calfe, muſh Camel, creat houſe, muſh ſhimney, yea muſh all things; yet ſhuſt man <hi>Shobe</hi> was fall too, and how was
+<pb facs="tcp:156811:4"/>
+               <!-- PDF PAGE 79 -->ſhuſt man <hi>Shobe</hi> fall, te Tiffell took her threw her town, preſt her, and much ſhabs muſh boyl, muſh ſore, muſh all ſickneſſe, a pock on te Tiffell for her lapour, have no cood will remain for te ſhuſt man <hi>Shobe;</hi> Terfore if te ſhuſt man <hi>Shobe</hi> vvas fall, her had need take heed what her do, and what her ſay, <hi>Viſhilata torata, waſh and pray,</hi> I war<g ref="char:EOLhyphen"/>rant her keep her text ſtill,</p>
+            <p>Tus you ſee good people, hovv tat <hi>Atam</hi> was fell, <hi>Heva</hi> was fell, <hi>Lot</hi> was fell, <hi>Taffie</hi> was fell, ſhuſt man <hi>Shobe</hi> was fell, ye all was fell; And hovv vvas all fell, all vvas fell from <hi>Kot</hi> to the <hi>Tivell,</hi> from <hi>Heaven</hi> to <hi>Hell;</hi> from <hi>Heaven</hi> tat prave plaſſe, to <hi>Hell</hi> tat foul ſtinking plaſſe: Terfore <hi>Viſhilata torata, Waſh and pray, Her warrant her keep her teſht ſtill.</hi>
+            </p>
+            <p>Tere are many more in te pook of <hi>Kot</hi> tat was fell too, <hi>Abſolam</hi> was fell, and hovv was <hi>Abſolam</hi> fell, he was fell upon <hi>Damar</hi> his nown Siſter; <hi>Shaul</hi> vvas fell, and hovv to <hi>Jdolatry</hi> a creat deal more vvas fell too, more was fell too, tat her cannot tell, put tey pe in te pook of <hi>Kot,</hi> and her ſaid pe<g ref="char:EOLhyphen"/>fore her cannot where, put tere tey be hers
+<pb facs="tcp:156811:4"/>
+               <!-- PDF PAGE 79 -->ſure; <hi>Viſhilata torata, waſh and pray, her war<g ref="char:EOLhyphen"/>rant her keep her teſht ſtill.</hi>
+            </p>
+            <p>
+               <hi>Prethren</hi> and <hi>Siſters,</hi> her hope tat none of you wil pe offended at her preachment and ſay her ſpeaks vvell put her vvords and actions acree not: her cannot ſhuſtifie her ſelf, her was likewiſe fall too, and her was have creat many faults, put her cive Kot tanks, her has alvvays pin coverned py a cood ſpirit, and my Toctrine hath civen cood content unto moſt of you: Her has not pin proud tat ye all know, her might have pin (a) beſhit, tat her kiffe <hi>Kot</hi> tanks her had more crace, and kad rather make a preachment here in a Tub, den in the To<g ref="char:EOLhyphen"/>wer: Terefore her ſhall make uſe of her teſt, and <hi>Viſhilata torata, waſh and pray, tat her come not in tat place, her warrant her keepe her Teſt ſtill.</hi> But her muſt now come to make ſome uſes.</p>
+            <p>Peloved People you muſt firſt take heed of curoſity, or her will pe trown out of Pa<g ref="char:EOLhyphen"/>radice, out of dat prave plaſſe, dat ſweet plaſſe. <hi>Viſhilata torata, waſh and pray her war<g ref="char:EOLhyphen"/>rant keep her teſht ſtill.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Take heed of peing tunk for
+<pb facs="tcp:156811:5"/>
+               <!-- PDF PAGE 80 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:156811:5"/>
+               <!-- PDF PAGE 80 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:156811:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 81 -->fear dat te <hi>Tiffel</hi> catch her, and ſo her nev<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> come acain to ſee her Friends and Cou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>trymen. <hi>Viſhilata torata, waſh and pray her warrant her keep her teſht.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> take heed of whoring, for tat i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a creat ſinne, and will pring you to te Tif<g ref="char:EOLhyphen"/>fell, put <hi>Viſhilata torata, waſh and pray, her warrant her keep her teſht ſtill.</hi>
+            </p>
+            <p>Terfore cood people take heed, and tim<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of her preachment, and contemn not te ad<g ref="char:EOLhyphen"/>vice of te man of <hi>Kot;</hi> for if her do, <hi>Ko<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> will plague her in tis World, and in t<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> World to come. <hi>Viſhilata torata, waſh and pray, her warrant her keep her teſht.</hi>
+            </p>
+            <p>Tus peloved her may ſee wat creat dan<g ref="char:EOLhyphen"/>ger tis to pe tunkerds, horemaſters, and in<g ref="char:EOLhyphen"/>teed to be nought: pe cood fellowes, put not tunk; love woman, put not hores; live ho<g ref="char:EOLhyphen"/>neſtly and Cot wil pleſſe ye. So for tis time her has tone; for her tink tat Tinner is al<g ref="char:EOLhyphen"/>moſt ready, to which Kot pring her for mercy ſake, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
